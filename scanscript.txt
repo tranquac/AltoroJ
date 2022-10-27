@@ -1,5 +1,5 @@
 login localhost tranquac\Passw0rd! -acceptssl
 RUNAS AUTO
-oa "github_action_test.paf" -no_ear_project 
-ra "github_action.ozasmt" -scanconfig "Normal scan"
+oa "C:\App_Sample\AltoroJ\github_action_test.paf" -no_ear_project 
+ra "C:\App_Sample\AltoroJ\github_action.ozasmt" -scanconfig "Normal scan"
 exit
